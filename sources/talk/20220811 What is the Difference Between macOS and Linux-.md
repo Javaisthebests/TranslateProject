@@ -292,3 +292,5 @@ via: https://itsfoss.com/mac-linux-difference/
 [38]: https://itsfoss.com/long-term-support-lts/
 [39]: https://itsfoss.com/getting-started-with-ubuntu/
 [40]: https://itsfoss.com/best-rolling-release-distros/
+
+2
